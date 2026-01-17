@@ -1,4 +1,4 @@
-# Hi there, I'm [Victor Elias Chung Coelho] 👋
+# Hi there, I'm Victor Elias Chung Coelho 👋
 
 ### 👨‍💻 Systems Engineering & Cybersecurity Student
 *Based in Chiclayo, Peru 🇵🇪*
