@@ -1,6 +1,6 @@
 # Hi there, I'm Victor Elias Chung Coelho 👋
 
-### 👨‍💻 Systems Engineering & Cybersecurity Student
+### 👨‍💻 Systems Engineering
 *Based in Chiclayo, Peru 🇵🇪*
 
 ¡Hola! Soy un estudiante apasionado por la construcción de sistemas escalables y seguros. Mi enfoque combina la robustez de la ingeniería de software con las mejores prácticas de seguridad y DevOps. Actualmente estoy profundizando en arquitecturas de microservicios y soluciones en la nube.
